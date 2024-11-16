@@ -69,4 +69,7 @@ Deploy inference logic using Google Cloud Functions.
 
 ## Credits and Inspiration
 Inspired by the Plant Village dataset available on Kaggle.
+https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
 Deployment strategy inspired by TensorFlow Serving on GCP.
+https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions
